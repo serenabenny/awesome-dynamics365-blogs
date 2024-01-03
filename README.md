@@ -7,14 +7,15 @@
 1. https://NishantRana.me | Blog by Nishant Rana
 1. https://RajeevPentyala.com | Blog by Rajeev Pentyala
 1. https://dynamics365blocks.wordpress.com | Blog by [Vishal Grade](https://www.linkedin.com/in/dynamics365blocks/)
+1. https://vishalgrade.com/ | Blog by [Vishal Grade](https://www.linkedin.com/in/dynamics365blocks/)
 ---
 ## 2020 - 2022
 ---
 ## Before 2020
----
 1. https://crmblocks.blogspot.in | Blog by [Vishal Grade](https://www.linkedin.com/in/dynamics365blocks/)
-
 1. https://crmbook.powerobjects.com | Tutorial by [Power Objetcs](https://powerobjects.com/)
+---
+
 1. https://NeilParkhurst.com | Blog by Neil Parkhurst
 1. https://www.c-sharpcorner.com/technologies/dynamics-crm | Articles on [C# Corner](https://www.c-sharpcorner.com)
 1. https://arpitmscrmhunt.blogspot.com | Blog by Arpit Shrivastava
