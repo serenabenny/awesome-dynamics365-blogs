@@ -1,7 +1,8 @@
 # Curated Collection of Dynamics 365 Content
 
 > [Add your own or some good blog/content you know about Dynamics 365.](add.md) | | [why to add?](why.md) | | [Report Abuse](https://github.com/AshV/awesome-dynamics365-blogs/issues/new)
-
+---
+> Recent Update
 ---
 1. https://ArunPotti.wordpress.com | Blog by Arun Potti
 1. https://NishantRana.me | Blog by Nishant Rana
