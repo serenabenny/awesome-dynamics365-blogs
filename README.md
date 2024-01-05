@@ -18,6 +18,10 @@
 1. https://dynamicsofdynamicscrm.com | Blog by [Deepesh Somani](https://www.linkedin.com/in/deepesh-somani-00296932/)
 1. http://www.itaintboring.com | Blog by [Alex Shlega](https://www.linkedin.com/in/alexandershlega/)
 1. https://www.magnetismsolutions.com/blog | Blog by Magnetism Solutions
+1. https://DreamingInCRM.com | Blog by [Natraj Yegnaraman](https://www.linkedin.com/in/natrajyegnaraman/)
+1. https://ThatCrmBlog.wordpress.com | Blog by [Leontribe](https://twitter.com/leontribe)
+1. https://www.crmonce.com/category/dynamics-365-blogs | Blog by Uma Mahesh Dasari
+1. http://himbap.com/blog | Blog by Mahendar Pal
 ---
 ## 2020 - 2022
 1. https://arpitmscrmhunt.blogspot.com | Blog by Arpit Shrivastava
@@ -29,6 +33,9 @@
 1. https://passion4dynamics.com | Blog by Rawish
 1. https://mscrmtechie.blogspot.com | Blog by Gopinath
 1. http://www.mohamedmostafa.co.uk/blog | Blog by Mohamed Mostafa
+1. http://missdynamicscrm.blogspot.in | Blog by Aileen Gusni (2021)
+1. https://nothingnessit.wordpress.com | Blog by [Alessandro Graps](https://www.linkedin.com/in/alessandrograps/) (2021)
+1. https://evolved365.com/ | Blog by [Thanura](https://www.linkedin.com/in/thanura-wijesiriwardena-5b269920/) (2020)
 ---
 ## Before 2020
 1. https://crmblocks.blogspot.in | Blog by [Vishal Grade](https://www.linkedin.com/in/dynamics365blocks/)
@@ -38,20 +45,11 @@
 1. http://www.xrmcoaches.com/blog | Blog by Xrm Coaches
 1. https://spandcrm.com | Blog by Shaun Wilkinson
 1. https://jkkdynamiccrm.blogspot.com | Blog by Kranthi (2016)
-1. https://crmjharana38.blogspot.com | Blog by Jharana
-1. https://crmpankaj.blogspot.com | Blog by Pankaj
+1. https://crmjharana38.blogspot.com | Blog by Jharana (2019)
+1. https://crmpankaj.blogspot.com | Blog by Pankaj (2016)
+1. http://mscrmuk.blogspot.in | Blog by David Jennaway (2019)
+1. https://themscrmexpert.wordpress.com | Blog by Yadnyesh (2019)
+1. https://bettercrm.blog | Blog by Paweł Gradecki (2018)
+1. https://www.crmanswers.net | Blog by [Guido Preite](https://www.linkedin.com/in/guidopreite) (2018)
 ---
 
-1. https://DreamingInCRM.com | Blog by [Natraj Yegnaraman](https://www.linkedin.com/in/natrajyegnaraman/)
-1. https://ThatCrmBlog.wordpress.com | Blog by [Leontribe](https://twitter.com/leontribe)
-1. https://crmmatthew.com/ | Blog by [Matthew Webb](https://www.linkedin.com/in/matthewwebb316/)
-1. http://www.crmonce.com | Blog by Uma Mahesh Dasari
-1. http://mscrmuk.blogspot.in | Blog by David Jennaway
-1. http://missdynamicscrm.blogspot.in | Blog by Aileen Gusni
-1. https://themscrmexpert.wordpress.com | Blog by Yadnyesh
-1. http://himbap.com/blog | Blog by Mahendar Pal
-1. https://bettercrm.blog | Blog by Paweł Gradecki
-1. http://www.aayushsingh.in | Blog by Aayush Singh
-1. https://www.crmanswers.net | Blog by [Guido Preite](https://www.linkedin.com/in/guidopreite)
-1. https://nothingnessit.wordpress.com | Blog by [Alessandro Graps](https://www.linkedin.com/in/alessandrograps/)
-1. https://evolved365.com/ | Blog by [Thanura](https://www.linkedin.com/in/thanura-wijesiriwardena-5b269920/)
