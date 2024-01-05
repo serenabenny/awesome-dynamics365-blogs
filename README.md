@@ -8,25 +8,24 @@
 1. https://RajeevPentyala.com | Blog by Rajeev Pentyala
 1. https://dynamics365blocks.wordpress.com | Blog by [Vishal Grade](https://www.linkedin.com/in/dynamics365blocks/)
 1. https://vishalgrade.com/ | Blog by [Vishal Grade](https://www.linkedin.com/in/dynamics365blocks/)
+1. https://NeilParkhurst.com | Blog by Neil Parkhurst
+1. https://www.c-sharpcorner.com/technologies/dynamics-crm | Articles on [C# Corner](https://www.c-sharpcorner.com)
+1. https://www.inogic.com/blog | Blog in Inogic
+1. https://balugajjala.wordpress.com | Blog by Balu Gajjala
+1. https://jopx.blogspot.com | Blog by Jopx | **Reading List is best here**
 ---
 ## 2020 - 2022
+1. https://arpitmscrmhunt.blogspot.com | Blog by Arpit Shrivastava
+1. https://ansrikanth.com | Blog by [AN Srikanth](https://www.linkedin.com/in/nagasrikanthalluri/)
+1. https://crmtipoftheday.com | Daily CRM Tips 
+1. https://crmbusiness.wordpress.com | Blog by [Ben Hosking](https://www.linkedin.com/in/benhosking/)
+1. http://www.develop1.net/public/default.aspx | By Scott Durow 
 ---
 ## Before 2020
 1. https://crmblocks.blogspot.in | Blog by [Vishal Grade](https://www.linkedin.com/in/dynamics365blocks/)
 1. https://crmbook.powerobjects.com | Tutorial by [Power Objetcs](https://powerobjects.com/)
 ---
 
-1. https://NeilParkhurst.com | Blog by Neil Parkhurst
-1. https://www.c-sharpcorner.com/technologies/dynamics-crm | Articles on [C# Corner](https://www.c-sharpcorner.com)
-1. https://arpitmscrmhunt.blogspot.com | Blog by Arpit Shrivastava
-1. https://www.inogic.com/blog | Blog in Inogic
-1. https://ansrikanth.com | Blog by [AN Srikanth](https://www.linkedin.com/in/nagasrikanthalluri/)
-1. https://balugajjala.wordpress.com | Blog by Balu Gajjala
-1. https://crmtipoftheday.com | Daily CRM Tips 
-1. https://crmbusiness.wordpress.com | Blog by [Ben Hosking](https://www.linkedin.com/in/benhosking/)
-1. http://www.develop1.net/public/default.aspx | By Scott Durow 
-1. https://dynamicshacker.com | Blog
-1. https://jopx.blogspot.com | Blog by Jopx | **Reading List is best here**
 1. https://someshblogs.wordpress.com | Blog by [Someswara Siripuram](https://www.linkedin.com/in/someswara-siripuram-127b3644/)
 1. https://d365blogger.com | Blog by Sahanw
 1. https://sachinbansal.blog | Blog by [Sachin Bansal](https://www.linkedin.com/in/bansal111089/)
