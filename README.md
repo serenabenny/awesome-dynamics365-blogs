@@ -22,6 +22,7 @@
 1. https://ThatCrmBlog.wordpress.com | Blog by [Leontribe](https://twitter.com/leontribe)
 1. https://www.crmonce.com/category/dynamics-365-blogs | Blog by Uma Mahesh Dasari
 1. http://himbap.com/blog | Blog by Mahendar Pal
+1. https://dynamics365musings.com | Blog by Peter Ramer
 ---
 ## 2020 - 2022
 1. https://arpitmscrmhunt.blogspot.com | Blog by Arpit Shrivastava (2021)
