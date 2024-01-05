@@ -24,25 +24,24 @@
 1. http://himbap.com/blog | Blog by Mahendar Pal
 ---
 ## 2020 - 2022
-1. https://arpitmscrmhunt.blogspot.com | Blog by Arpit Shrivastava
-1. https://ansrikanth.com | Blog by [AN Srikanth](https://www.linkedin.com/in/nagasrikanthalluri/)
-1. https://crmtipoftheday.com | Daily CRM Tips 
-1. https://crmbusiness.wordpress.com | Blog by [Ben Hosking](https://www.linkedin.com/in/benhosking/)
-1. http://www.develop1.net/public/default.aspx | By Scott Durow
-1. https://sachinbansal.blog | Blog by [Sachin Bansal](https://www.linkedin.com/in/bansal111089/)
-1. https://passion4dynamics.com | Blog by Rawish
-1. https://mscrmtechie.blogspot.com | Blog by Gopinath
-1. http://www.mohamedmostafa.co.uk/blog | Blog by Mohamed Mostafa
+1. https://arpitmscrmhunt.blogspot.com | Blog by Arpit Shrivastava (2021)
+1. https://ansrikanth.com | Blog by [AN Srikanth](https://www.linkedin.com/in/nagasrikanthalluri/) (2022)
+1. https://crmtipoftheday.com | Daily CRM Tips (2022)
+1. https://crmbusiness.wordpress.com | Blog by [Ben Hosking](https://www.linkedin.com/in/benhosking/) (2021)
+1. http://www.develop1.net/public/default.aspx | By Scott Durow (2023 Apr)
+1. https://sachinbansal.blog | Blog by [Sachin Bansal](https://www.linkedin.com/in/bansal111089/) (2020)
+1. https://passion4dynamics.com | Blog by Rawish (2022)
+1. https://mscrmtechie.blogspot.com | Blog by Gopinath (2020)
+1. http://www.mohamedmostafa.co.uk/blog | Blog by Mohamed Mostafa (2022)
 1. http://missdynamicscrm.blogspot.in | Blog by Aileen Gusni (2021)
 1. https://nothingnessit.wordpress.com | Blog by [Alessandro Graps](https://www.linkedin.com/in/alessandrograps/) (2021)
 1. https://evolved365.com/ | Blog by [Thanura](https://www.linkedin.com/in/thanura-wijesiriwardena-5b269920/) (2020)
 ---
 ## Before 2020
-1. https://crmblocks.blogspot.in | Blog by [Vishal Grade](https://www.linkedin.com/in/dynamics365blocks/)
-1. https://crmbook.powerobjects.com | Tutorial by [Power Objetcs](https://powerobjects.com/)
-1. https://someshblogs.wordpress.com | Blog by [Someswara Siripuram](https://www.linkedin.com/in/someswara-siripuram-127b3644/)
-1. https://gustafwesterlund.blogspot.com | Blog by [Gustaf Westerlund](https://www.linkedin.com/in/gustafwesterlund/)
-1. http://www.xrmcoaches.com/blog | Blog by Xrm Coaches
+1. https://crmblocks.blogspot.in | Blog by [Vishal Grade](https://www.linkedin.com/in/dynamics365blocks/) (2018)
+1. https://someshblogs.wordpress.com | Blog by [Someswara Siripuram](https://www.linkedin.com/in/someswara-siripuram-127b3644/) (2019)
+1. https://gustafwesterlund.blogspot.com | Blog by [Gustaf Westerlund](https://www.linkedin.com/in/gustafwesterlund/) (2019)
+1. http://www.xrmcoaches.com/blog | Blog by Xrm Coaches (2020)
 1. https://spandcrm.com | Blog by Shaun Wilkinson
 1. https://jkkdynamiccrm.blogspot.com | Blog by Kranthi (2016)
 1. https://crmjharana38.blogspot.com | Blog by Jharana (2019)
